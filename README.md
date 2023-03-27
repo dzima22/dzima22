@@ -5,3 +5,4 @@
 <p align="center">
 <h3 align="center">A Bachelor graduate in Quantitative Methods in Economics and Information Systems at Warsaw School of Economics.Self-driven and hard-working <b>Data analyst</b> who wants to develop his practical skills.</p>
 </em>
+***Current tech stack...***
