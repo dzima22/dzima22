@@ -11,3 +11,6 @@ Current tech stack...
 <img height="100px" width="100px" src="microsoft-sql-server-logo-svgrepo-com.svg" alt="SQlServer-icon">
 <img height="100px" width="100px" src="r-project-ar21.svg" alt="R-icon">
 <img height="100px" width="100px" src=" python-3.svg" alt="Python-icon">
+ <img height="100px" width="100px" src=" Pandas.svg" alt="Pandas-icon">
+ <img height="100px" width="100px" src=" numpy-ar21.svg" alt="Numpy-icon">
+ <img height="100px" width="100px" src=" julialang-ar21.svg" alt="Julia-icon">
