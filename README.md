@@ -7,7 +7,7 @@
 </em>
 ***Current tech stack...***
 <p align = center>
-<img height="100px" width="100px" src="icons/MySQL-icon.svg" alt="typescript-icon">
+<img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL-icon">
 <img height="100px" width="100px" src="icons/react-icon.svg" alt="react-icon">
 <img height="100px" width="100px" src="icons/redux-icon.svg" alt="redux-icon">
 <img height="100px" width="100px" src="icons/javascript-icon.svg" alt="java-script-icon">
