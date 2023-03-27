@@ -8,4 +8,6 @@
 Current tech stack...
 <p align = center>
 <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL-icon">
-<img height="100px" width="100px" src="microsoft-sql-server-logo-svgrepo-com.svg" alt="MySQL-icon">
+<img height="100px" width="100px" src="microsoft-sql-server-logo-svgrepo-com.svg" alt="SQlServer-icon">
+<img height="100px" width="100px" src="microsoft-sql-server-logo-svgrepo-com.svg" alt="R-icon">
+<img height="100px" width="100px" src="microsoft-sql-server-logo-svgrepo-com.svg" alt="Python-icon">
