@@ -8,7 +8,7 @@
 ***Current tech stack...***
 <p align = center>
 <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL-icon">
-<img height="100px" width="100px" src="icons/react-icon.svg" alt="react-icon">
+<img height="100px" width="100px" src="https://en.wikipedia.org/wiki/Oracle_SQL_Developer#/media/File:Oracle_SQL_Developer_logo.svg" alt="react-icon">
 <img height="100px" width="100px" src="icons/redux-icon.svg" alt="redux-icon">
 <img height="100px" width="100px" src="icons/javascript-icon.svg" alt="java-script-icon">
 <img height="100px" width="100px" src="icons/jest-icon.svg" alt="jest-icon">
