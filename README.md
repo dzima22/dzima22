@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋 I'm Dzmiry!</h3>
-<h3 align="center"I'm currently learning Data Analysis, Statistics, Econometrics, and Data Science!"</h3>
+<h3 align="center">I'm currently learning Data Analysis, Statistics, Econometrics, and Data Science!</h3>
 <hr>
 <em>
 <p align="center">
