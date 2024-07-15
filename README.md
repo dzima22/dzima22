@@ -1,9 +1,9 @@
 <h3 align="center">Hi 👋 I'm Dzmiry!</h3>
-<h3 align="center">I'm currently learning Data Analysis, Statistics, Econometrics, and Data Science!</h3>
+<h3 align="center"> 💡 I'm currently learning Data Analysis, Statistics, Econometrics, and Data Science!</h3>
 <hr>
 <em>
 <p align="center">
-<h3 align="center">A Master student in Quantitative Methods in Economics and Information Systems at Warsaw School of Economics.Self-driven and hard-working <b>student</b> who wants to develop his practical skills.</p>
+<h3 align="center">A Master student in Quantitative Methods in Economics and Information Systems at Warsaw School of Economics.Self-driven and hard-working </b>student</b> who wants to develop his practical skills.</p>
 </em>
 Current tech stack...
 <p align = center>
