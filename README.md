@@ -3,7 +3,7 @@
 <hr>
 <em>
 <p align="center">
-<h3 align="center">A Master student in Quantitative Methods in Economics and Information Systems at Warsaw School of Economics.Self-driven and hard-working <b>student</b>  who wants to develop his practical skills.</p>
+<h3 align="center">A Master student in Quantitative Methods in Economics and Information Systems at Warsaw School of Economics.Self-driven and hard-working <b>Student</b>  who wants to develop his practical skills.</p>
 </em>
 Current tech stack...
 <p align = center>
