@@ -22,28 +22,54 @@ Current tech stack...
  
 ### My Projects:
 <div align="center">
-  <a href="https://github.com/dzima22/writing_election_functions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=writing_election_functions" alt="writing_election_functions">
-  </a>
-  <a href="https://github.com/dzima22/Ranking_and_grouping_of_EU_countries">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Ranking_and_grouping_of_EU_countries" alt="Ranking and grouping of EU countries">
-  </a>
-  <a href="https://github.com/dzima22/Estimating_the_size_of_the_shadow_economy_in_Poland_in_2002-2012">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Estimating_the_size_of_the_shadow_economy_in_Poland_in_2002-2012" alt="Estimating the size of the shadow economy in Poland">
-  </a>
-  <a href="https://github.com/dzima22/The_evaluation_of_the_risk_of_corporate_bankruptcy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=The_evaluation_of_the_risk_of_corporate_bankruptcy" alt="The evaluation of the risk of corporate bankruptcy">
-  </a>
-  <a href="https://github.com/dzima22/Tourism_in_Poland_in_a_pandemic_period">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Tourism_in_Poland_in_a_pandemic_period" alt="Tourism in Poland in a pandemic period">
-  </a>
-  <a href="https://github.com/dzima22/credit_risk_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=credit_risk_project" alt="credit risk project">
-  </a>
-  <a href="https://github.com/dzima22/Blackjack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Blackjack" alt="Blackjack">
-  </a>
-  <a href="https://github.com/dzima22/Noughts_and_Crosses_game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Noughts_and_Crosses_game" alt="Noughts_and_Crosses_game">
-  </a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/dzima22/writing_election_functions">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=writing_election_functions" alt="writing_election_functions" style="width: 250px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/dzima22/Ranking_and_grouping_of_EU_countries">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Ranking_and_grouping_of_EU_countries" alt="Ranking and grouping of EU countries" style="width: 250px;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/dzima22/Estimating_the_size_of_the_shadow_economy_in_Poland_in_2002-2012">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Estimating_the_size_of_the_shadow_economy_in_Poland_in_2002-2012" alt="Estimating the size of the shadow economy in Poland" style="width: 250px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/dzima22/The_evaluation_of_the_risk_of_corporate_bankruptcy">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=The_evaluation_of_the_risk_of_corporate_bankruptcy" alt="The evaluation of the risk of corporate bankruptcy" style="width: 250px;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/dzima22/Tourism_in_Poland_in_a_pandemic_period">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Tourism_in_Poland_in_a_pandemic_period" alt="Tourism in Poland in a pandemic period" style="width: 250px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/dzima22/credit_risk_project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=credit_risk_project" alt="credit risk project" style="width: 250px;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/dzima22/Blackjack">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Blackjack" alt="Blackjack" style="width: 250px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/dzima22/Noughts_and_Crosses_game">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Noughts_and_Crosses_game" alt="Noughts and Crosses game" style="width: 250px;">
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
