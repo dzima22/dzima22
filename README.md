@@ -14,7 +14,7 @@ Current tech stack...
  <img height="100px" width="100px" src="https://github.com/dzima22/dzima22/blob/main/imgs/Pandas.svg" alt="Pandas-icon">
  <img height="100px" width="100px" src="https://github.com/dzima22/dzima22/blob/main/imgs/numpy-ar21.svg" alt="Numpy-icon">
  <img height="100px" width="100px" src="https://github.com/dzima22/dzima22/blob/main/imgs/julialang-ar21.svg" alt="Julia-icon">
- 
+  
 ### Statistics:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzima22&layout=pie" alt="Top Langs">
