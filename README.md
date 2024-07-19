@@ -15,6 +15,6 @@ Current tech stack...
  <img height="100px" width="100px" src="https://github.com/dzima22/dzima22/blob/main/imgs/numpy-ar21.svg" alt="Numpy-icon">
  <img height="100px" width="100px" src="https://github.com/dzima22/dzima22/blob/main/imgs/julialang-ar21.svg" alt="Julia-icon">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzima22&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzima22&layout=pie)](https://github.com/dzima22/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=writing_election_functions)](https://github.com/dzima22/writing_election_functions)
 
