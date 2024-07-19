@@ -20,7 +20,7 @@ Current tech stack...
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzima22&layout=pie" alt="Top Langs">
 </div>
  
-### My Projects
+### My Projects:
 <div align="center">
   <a href="https://github.com/dzima22/writing_election_functions">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=writing_election_functions" alt="writing_election_functions">
@@ -39,5 +39,11 @@ Current tech stack...
   </a>
   <a href="https://github.com/dzima22/credit_risk_project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=credit_risk_project" alt="credit risk project">
+  </a>
+  <a href="https://github.com/dzima22/Blackjack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Blackjack" alt="Blackjack">
+  </a>
+  <a href="https://github.com/dzima22/Noughts_and_Crosses_game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Noughts_and_Crosses_game" alt="Noughts_and_Crosses_game">
   </a>
 </div>
