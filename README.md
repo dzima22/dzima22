@@ -15,12 +15,29 @@ Current tech stack...
  <img height="100px" width="100px" src="https://github.com/dzima22/dzima22/blob/main/imgs/numpy-ar21.svg" alt="Numpy-icon">
  <img height="100px" width="100px" src="https://github.com/dzima22/dzima22/blob/main/imgs/julialang-ar21.svg" alt="Julia-icon">
  
-### Statistics
+### Statistics:
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzima22&layout=pie)](https://github.com/dzima22/github-readme-stats)
+ </div>
+ 
 ### My Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=writing_election_functions)](https://github.com/dzima22/writing_election_functions)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Ranking_and_grouping_of_EU_countries)](https://github.com/dzima22/Ranking_and_grouping_of_EU_countries)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Estimating_the_size_of_the_shadow_economy_in_Poland_in_2002-2012)](https://github.com/dzima22/Estimating_the_size_of_the_shadow_economy_in_Poland_in_2002-2012)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=The_evaluation_of_the_risk_of_corporate_bankruptcy)](https://github.com/dzima22/The_evaluation_of_the_risk_of_corporate_bankruptcy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Tourism_in_Poland_in_a_pandemic_period)](https://github.com/dzima22/Tourism_in_Poland_in_a_pandemic_period)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=credit_risk_project)](https://github.com/dzima22/credit_risk_project)
+<div align="center">
+  <a href="https://github.com/dzima22/writing_election_functions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=writing_election_functions" alt="writing_election_functions">
+  </a>
+  <a href="https://github.com/dzima22/Ranking_and_grouping_of_EU_countries">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Ranking_and_grouping_of_EU_countries" alt="Ranking and grouping of EU countries">
+  </a>
+  <a href="https://github.com/dzima22/Estimating_the_size_of_the_shadow_economy_in_Poland_in_2002-2012">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Estimating_the_size_of_the_shadow_economy_in_Poland_in_2002-2012" alt="Estimating the size of the shadow economy in Poland">
+  </a>
+  <a href="https://github.com/dzima22/The_evaluation_of_the_risk_of_corporate_bankruptcy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=The_evaluation_of_the_risk_of_corporate_bankruptcy" alt="The evaluation of the risk of corporate bankruptcy">
+  </a>
+  <a href="https://github.com/dzima22/Tourism_in_Poland_in_a_pandemic_period">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Tourism_in_Poland_in_a_pandemic_period" alt="Tourism in Poland in a pandemic period">
+  </a>
+  <a href="https://github.com/dzima22/credit_risk_project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=credit_risk_project" alt="credit risk project">
+  </a>
+</div>
