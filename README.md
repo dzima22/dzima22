@@ -19,3 +19,6 @@ Current tech stack...
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=writing_election_functions)](https://github.com/dzima22/writing_election_functions)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Ranking_and_grouping_of_EU_countries)](https://github.com/dzima22/Ranking_and_grouping_of_EU_countries)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Estimating_the_size_of_the_shadow_economy_in_Poland_in_2002-2012)](https://github.com/dzima22/Estimating_the_size_of_the_shadow_economy_in_Poland_in_2002-2012)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=The_evaluation_of_the_risk_of_corporate_bankruptcy)](https://github.com/dzima22/The_evaluation_of_the_risk_of_corporate_bankruptcy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Tourism_in_Poland_in_a_pandemic_period)](https://github.com/dzima22/Tourism_in_Poland_in_a_pandemic_period)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=credit_risk_project)](https://github.com/dzima22/credit_risk_project)
