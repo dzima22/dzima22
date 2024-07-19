@@ -14,8 +14,10 @@ Current tech stack...
  <img height="100px" width="100px" src="https://github.com/dzima22/dzima22/blob/main/imgs/Pandas.svg" alt="Pandas-icon">
  <img height="100px" width="100px" src="https://github.com/dzima22/dzima22/blob/main/imgs/numpy-ar21.svg" alt="Numpy-icon">
  <img height="100px" width="100px" src="https://github.com/dzima22/dzima22/blob/main/imgs/julialang-ar21.svg" alt="Julia-icon">
-
+ 
+### Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzima22&layout=pie)](https://github.com/dzima22/github-readme-stats)
+### My Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=writing_election_functions)](https://github.com/dzima22/writing_election_functions)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Ranking_and_grouping_of_EU_countries)](https://github.com/dzima22/Ranking_and_grouping_of_EU_countries)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Estimating_the_size_of_the_shadow_economy_in_Poland_in_2002-2012)](https://github.com/dzima22/Estimating_the_size_of_the_shadow_economy_in_Poland_in_2002-2012)
