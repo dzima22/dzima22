@@ -17,8 +17,8 @@ Current tech stack...
  
 ### Statistics:
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzima22&layout=pie)](https://github.com/dzima22/github-readme-stats)
- </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzima22&layout=pie" alt="Top Langs">
+</div>
  
 ### My Projects
 <div align="center">
