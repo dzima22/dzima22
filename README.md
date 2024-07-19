@@ -15,4 +15,4 @@ Current tech stack...
  <img height="100px" width="100px" src="https://github.com/dzima22/dzima22/blob/main/imgs/numpy-ar21.svg" alt="Numpy-icon">
  <img height="100px" width="100px" src="https://github.com/dzima22/dzima22/blob/main/imgs/julialang-ar21.svg" alt="Julia-icon">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzima22,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzima22&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
