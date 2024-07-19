@@ -16,4 +16,4 @@ Current tech stack...
  <img height="100px" width="100px" src="https://github.com/dzima22/dzima22/blob/main/imgs/julialang-ar21.svg" alt="Julia-icon">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzima22&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzima22&hide_progress=true)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dzima22)](https://github.com/anuraghazra/github-readme-stats)
