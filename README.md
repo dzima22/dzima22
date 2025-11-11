@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋 I'm Dimiri!</h3>
+<h3 align="center">Hi 👋 I'm Dimitri!</h3>
 I'm a Data Science enthusiast with a background in Big Data and Quantitative Finance.<br>
 🎓 Field of study: Big Data and Quantitative Methods in Finance<br>
 🧠 Experienced in Python programming, machine learning algorithms, and data processing pipelines for business applications.
