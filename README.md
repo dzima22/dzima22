@@ -1,75 +1,25 @@
-<h3 align="center">Hi 👋 I'm Dzmiry!</h3>
-<h3 align="center"> 💡 I'm currently learning Data Analysis, Statistics, Econometrics, and Data Science!</h3>
-<hr>
-<em>
-<p align="center">
-<h3 align="center">A Master student in Quantitative Methods in Economics and Information Systems at Warsaw School of Economics.Self-driven and hard-working <b>Student</b>  who wants to develop his practical skills.</p>
-</em>
-Current tech stack...
-<p align = center>
-<img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL-icon">
-<img height="100px" width="100px" src="https://github.com/dzima22/dzima22/blob/main/imgs/microsoft-sql-server-logo-svgrepo-com.svg" alt="SQlServer-icon">
-<img height="100px" width="100px" src="https://github.com/dzima22/dzima22/blob/main/imgs/r-project-ar21.svg" alt="R-icon">
-<img height="100px" width="100px" src="https://github.com/dzima22/dzima22/blob/main/imgs/python-3.svg" alt="Python-icon">
- <img height="100px" width="100px" src="https://github.com/dzima22/dzima22/blob/main/imgs/Pandas.svg" alt="Pandas-icon">
- <img height="100px" width="100px" src="https://github.com/dzima22/dzima22/blob/main/imgs/numpy-ar21.svg" alt="Numpy-icon">
- <img height="100px" width="100px" src="https://github.com/dzima22/dzima22/blob/main/imgs/julialang-ar21.svg" alt="Julia-icon">
-  
-### Statistics:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzima22&layout=pie" alt="Top Langs">
-</div>
- 
-### My Projects:
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/dzima22/writing_election_functions">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=writing_election_functions" alt="writing_election_functions" style="width: 300px;">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/dzima22/Ranking_and_grouping_of_EU_countries">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Ranking_and_grouping_of_EU_countries" alt="Ranking and grouping of EU countries" style="width: 300px;">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/dzima22/Estimating_the_size_of_the_shadow_economy_in_Poland_in_2002-2012">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Estimating_the_size_of_the_shadow_economy_in_Poland_in_2002-2012" alt="Estimating the size of the shadow economy in Poland" style="width: 300px;">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/dzima22/The_evaluation_of_the_risk_of_corporate_bankruptcy">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=The_evaluation_of_the_risk_of_corporate_bankruptcy" alt="The evaluation of the risk of corporate bankruptcy" style="width: 300px;">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/dzima22/Tourism_in_Poland_in_a_pandemic_period">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Tourism_in_Poland_in_a_pandemic_period" alt="Tourism in Poland in a pandemic period" style="width: 300px;">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/dzima22/credit_risk_project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=credit_risk_project" alt="credit risk project" style="width: 300px;">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/dzima22/Blackjack">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Blackjack" alt="Blackjack" style="width: 300px;">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/dzima22/Noughts_and_Crosses_game">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzima22&repo=Noughts_and_Crosses_game" alt="Noughts and Crosses game" style="width: 300px;">
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
+<h3 align="center">Hi 👋 I'm Dimiri!</h3>
+I'm a Data Science enthusiast with a background in Big Data and Quantitative Finance.<br>
+🎓 Field of study: Big Data and Quantitative Methods in Finance<br>
+🧠 Experienced in Python programming, machine learning algorithms, and data processing pipelines for business applications.
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0052CC?style=for-the-badge&logo=powerautomate&logoColor=white) ![Power Platform](https://img.shields.io/badge/Power%20Platform-094AB2?style=for-the-badge&logo=powerplatform&logoColor=white) ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![JDemetra+](https://img.shields.io/badge/JDemetra%2B-003366?style=for-the-badge&logo=chart-line&logoColor=white) ![CrypTool 2](https://img.shields.io/badge/CrypTool%202-2E8B57?style=for-the-badge&logo=lock&logoColor=white)
+
+# 🗂️ Projects and Exercises:
+
+## Python: 
+○ [LGD Prediction Models](https://github.com/YarosShemet/Python-Projects)
+
+
+## R: 
+○ [The evaluation of the risk of corporate bankruptcy](https://github.com/dzima22/The_evaluation_of_the_risk_of_corporate_bankruptcy)
+
+○ [Estimating the size of the shadow economy in Poland in 2002-2012](https://github.com/YarosShemet/R-Exercises)
+
+## SQL & PL/SQL: 
+○ 
+
+## Power BI: 
+○ 
