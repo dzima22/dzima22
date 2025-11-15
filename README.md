@@ -22,10 +22,15 @@ I'm a Data Science enthusiast with a background in Big Data and Quantitative Fin
 ## R: 
 ○ [The evaluation of the risk of corporate bankruptcy](https://github.com/dzima22/The_evaluation_of_the_risk_of_corporate_bankruptcy)
 
-○ [Estimating the size of the shadow economy in Poland in 2002-2012](https://github.com/YarosShemet/R-Exercises)
+○ [Estimating the size of the shadow economy in Poland in 2002-2012](https://github.com/dzima22/Estimating_the_size_of_the_shadow_economy_in_Poland_in_2002-2012)
 
-## SQL & PL/SQL: 
-○ 
+○ [R projects](https://github.com/dzima22/R-projects)
 
-## Power BI: 
-○ 
+## Other projects: 
+○ [Julia projects](https://github.com/dzima22/Julia_projects)
+
+○ [Power BI projects](https://github.com/dzima22/Tourism_in_Poland_during_the_pandemic_period)
+
+○ [Ranking-and-grouping-of-EU-countries](https://github.com/dzima22/Ranking_and_grouping_of_EU_countries)
+
+
