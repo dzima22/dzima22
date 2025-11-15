@@ -14,6 +14,8 @@ I'm a Data Science enthusiast with a background in Big Data and Quantitative Fin
 ## Python: 
 ○ [LGD Prediction Models](https://github.com/dzima22/LGD_Prediction_Models)
 
+○ [Pythonfor ML and Data_Science](https://github.com/dzima22/Python_for_ML-and-Data_Science)
+
 
 ## R: 
 ○ [The evaluation of the risk of corporate bankruptcy](https://github.com/dzima22/The_evaluation_of_the_risk_of_corporate_bankruptcy)
