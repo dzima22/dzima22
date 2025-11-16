@@ -18,6 +18,8 @@ I'm a Data Science enthusiast with a background in Big Data and Quantitative Fin
 
 ○ [Data Science Notebook Collection](https://github.com/dzima22/Python-exercises)
 
+○ [Algorithms_&_Data_Structures](https://github.com/dzima22/Data-Structures-Algorithms-LEETCODE-Exercises-)
+
 
 ## R: 
 ○ [The evaluation of the risk of corporate bankruptcy](https://github.com/dzima22/The_evaluation_of_the_risk_of_corporate_bankruptcy)
